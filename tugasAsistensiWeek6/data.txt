@@ -1,0 +1,26 @@
+PERPUSTAKAAN
+
+Buku ke : [1]
+Judul : Intro
+Pengarang : Sam
+Jumlah Halaman : 350
+Jenis Buku : Fiksi
+
+Buku ke : [2]
+Judul : cde
+Pengarang : efg
+Jumlah Halaman : 89
+Jenis Buku : Non-Fiksi
+
+Buku ke : [3]
+Judul : TIDAK ADA
+Pengarang : TIDAK ADA
+Jumlah Halaman : 0
+Jenis Buku : TIDAK ADA
+
+Buku ke : [4]
+Judul : abc
+Pengarang : abc
+Jumlah Halaman : 63
+Jenis Buku : fiksi
+
